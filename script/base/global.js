@@ -17,6 +17,7 @@ var conf = [
 
 	//panel
 	"loginPanel",
+	"fightPanel",
 ];
 window.MOD = [];
 function loadMod(modName) {

@@ -119,6 +119,10 @@ var modConf = {
 		prefab: 'template/login_panel',
 		modalMask: true,
 	},
+	["fightPanel"]: {
+		prefab: 'template/fight_panel',
+		modalMask: true,
+	},
 };
 
 var panelCache = {};
